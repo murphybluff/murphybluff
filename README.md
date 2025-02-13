@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murphybluff&label=Profile%20views&color=0e75b6&style=flat" alt="murphybluff" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murphybluff" alt="murphybluff" /></a> </p>
-
 - 🔭 I’m currently working on **FiveM Community**
 
 - 🌱 I’m currently learning **Frameworks, React.js, Java, C#, C++, Lua**
